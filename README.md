@@ -18,12 +18,11 @@ Tools: Excel =Trim, Replace, Pivot Tables, Charts, Slicers
 In this project, I have developed an interactive dashboard by merging human resources and sales data. The primary goal was to analyze departmental efficiency and compare revenue generation against salary costs.
 
 ### Key Features & Techniques Applied:
-* **Salary Benchmarking:** Calculated the **Average of Salary** across departments and cities to identify financial distribution Overall average: **$2,475**.
-* **Dynamic Pivot Tables & Charts:** Transformed raw data into insightful visualizations, including bar charts for sales and pie charts for departmental shares.
-* **Interactive Slicers:** Implemented multi-connected Slicers for **Department** and **City**, allowing for synchronized, one-click data filtering.
-* **Conditional Formatting:** Applied **Icon Sets** arrows to the sales figures to instantly highlight top-performing and underperforming regions.
+ **Salary Benchmarking:** Calculated the **Average of Salary** across departments and cities to identify financial distribution Overall average: **$2,475**.
+ **Dynamic Pivot Tables & Charts:** Transformed raw data into insightful visualizations, including bar charts for sales and pie charts for departmental shares.
+ **Interactive Slicers:** Implemented multi-connected Slicers for **Department** and **City**, allowing for synchronized, one-click data filtering.* **Conditional Formatting:** Applied **Icon Sets** arrows to the sales figures to instantly highlight top-performing and underperforming regions.
 
 ### Key Insights from the Analysis:
-* **Top Revenue Drivers:** The **Finance** and **IT** departments lead the company, each generating **15,000** in total sales.
-* **High-Cost Departments:** **Finance** has the highest average salary at **$3,100**, indicating a concentration of high-level expertise.
-* **Regional Leaders:** **Madrid** **8,000** and **Berlin** **7,000** are the strongest performing cities in terms of sales volume.
+ **Top Revenue Drivers:** The **Finance** and **IT** departments lead the company, each generating **15,000** in total sales.
+ **High-Cost Departments:** **Finance** has the highest average salary at **$3,100**, indicating a concentration of high-level expertise.
+ **Regional Leaders:** **Madrid** **8,000** and **Berlin** **7,000** are the strongest performing cities in terms of sales volume.
